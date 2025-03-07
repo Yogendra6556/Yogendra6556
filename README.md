@@ -1,7 +1,7 @@
 # Hi there, I'm Yogendra Rai ! 👋
 
 I'm a full stack developer from MadhyaPradesh, India, passionate about open source and solving real-world problems.
-- 👀 I’m interested in Travelling and Wathing Web series.
+- 👀 I’m interested in Travelling and Watching Web series.
 - 🌱 I’m currently learning Skiils of Data Analyst.
 - 💞️ I’m looking to collaborate on innovative web development projects, open-source contributions, and creative JavaScript/TypeScript solutions. Let’s build something amazing together! 🚀
 - 📫 How to reach me: You can connect with me via GitHub or reach out through my email. Always open to discussions and collaborations!
