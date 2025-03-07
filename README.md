@@ -1,12 +1,12 @@
 # Hi there, I'm Yogendra Rai ! 👋
 
 I'm a full stack developer from MadhyaPradesh, India, passionate about open source and solving real-world problems.
-👀 I’m interested in Travelling and Wathing Web series.
-🌱 I’m currently learning Skiils of Data Analyst.
-💞️ I’m looking to collaborate on innovative web development projects, open-source contributions, and creative JavaScript/TypeScript solutions. Let’s build something amazing together! 🚀
-📫 How to reach me: You can connect with me via GitHub or reach out through my email. Always open to discussions and collaborations!
-😄 Pronouns: He/Him.
-⚡ Fun fact: I can turn coffee into code and bugs into features! 🚀😄
+- 👀 I’m interested in Travelling and Wathing Web series.
+- 🌱 I’m currently learning Skiils of Data Analyst.
+- 💞️ I’m looking to collaborate on innovative web development projects, open-source contributions, and creative JavaScript/TypeScript solutions. Let’s build something amazing together! 🚀
+- 📫 How to reach me: You can connect with me via GitHub or reach out through my email. Always open to discussions and collaborations!
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I can turn coffee into code and bugs into features! 🚀😄
 ## 📞 Contact Details
 
 <a href="mailto:yogendrarai910@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
